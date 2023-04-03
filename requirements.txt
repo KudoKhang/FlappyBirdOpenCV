@@ -1,0 +1,3 @@
+mediapipe # mediapipe-silicon if you have M1 chip
+protobuf==3.20.1
+opencv-python
